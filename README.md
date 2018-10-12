@@ -1,2 +1,6 @@
 # Java
-Basic Java code for future refference.
+
+Basic Java code and tiny personal projects.
+
+Use freely for reference and learning. 
+
