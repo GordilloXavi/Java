@@ -1,6 +1,6 @@
 # Java
 
-Basic Java code and tiny personal projects.
+Basic Java code and small personal projects.
 
 Use freely for reference and learning. 
 
